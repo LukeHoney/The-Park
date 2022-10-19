@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-//write to console Statement From James Mead 955568
+//write to console Statement From James Mead 955568 Print Statement
 public class HelloConsole : MonoBehaviour
 {
     // Start is called before the first frame update
