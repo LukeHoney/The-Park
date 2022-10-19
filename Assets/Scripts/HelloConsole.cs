@@ -10,6 +10,7 @@ public class HelloConsole : MonoBehaviour
     {
         Debug.Log("HelloConsole.cs");
         Debug.Log("Luke Honey");
+        Debug.Log("955568");
     }
 
     // Update is called once per frame
